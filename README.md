@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Jasmine 👋
 
-<!--
-**jasminerezai/jasminerezai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year Software Development student at Kristianstad University.
+📍 Sweden  
 
-Here are some ideas to get you started:
+I’m interested in software engineering and enjoy solving problems through code.
+Most of my work here comes from university coursework and labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Focus
+- Java, Python, JavaScript
+- SQL, HTML, CSS
+- Git & GitHub
+- Networking and operating systems fundamentals
+
+🌱 Currently learning and improving every day.
